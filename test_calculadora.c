@@ -1,6 +1,6 @@
 #include <assert.h>
 #include <stdio.h>
-#include "function_dividir.c"
+#include "function_divisao.c"
 #include "function_multiplicar.c"
 
 int main()
